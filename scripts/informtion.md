@@ -5,3 +5,8 @@
 
 
 
+    "bronze_database", yt- database-bronze-db
+    "bronze_table", raw_statistics
+    "silver_bucket", yt-pipeline-silver-001
+    "silver_database", yt- database-silver-db
+    "silver_table", clean_statistics
